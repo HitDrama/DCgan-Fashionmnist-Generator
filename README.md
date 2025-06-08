@@ -34,7 +34,7 @@ Dưới đây là các grid 25 ảnh mẫu được sinh ra ở các giai đoạ
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/HitDrama/DCgan-Fashionmnist-Generator/blob/main/static/epoch30.png" alt="Epoch 21-30" width="480"/>
+      <img src="https://github.com/HitDrama/DCgan-Fashionmnist-Generator/blob/main/static/epoch25-30.png" alt="Epoch 21-30" width="480"/>
       <br/>
       <b>Epoch 21–30</b>
     </td>
