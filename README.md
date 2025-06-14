@@ -55,5 +55,3 @@ Dưới đây là các grid 25 ảnh mẫu được sinh ra ở các giai đoạ
 
 ---
 
-*Clone code, chạy thử, chỉnh tham số, hoặc mở rộng mô hình tuỳ ý bạn!*
-
